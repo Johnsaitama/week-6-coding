@@ -11,7 +11,7 @@ let player2 = new Player('luis');
  console.log(player2);
  class Card {
     constructor(faceValue,suit,rank){
-        this.facevalue = faceValue;
+        this.faceValue = faceValue;
         this.suit = suit;
         this.rank = rank;
     }
